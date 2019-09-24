@@ -61,16 +61,16 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ## Installation
 
-<p align="center">It's just like any other Laravel project. Basically here is how you use it for yourself. (it's not completed yet)
+- It's just like any other Laravel project. Basically here is how you use it for yourself. (it's not completed yet)
 
-Clone the repo git clone https://github.com/rumeshdezoysa/Laravel-5.7-start.git
-cd to project folder.
-Run composer install
-Save as the .env.example to .env and set your database information
-Run php artisan key:generate to generate the app key
-Run npm install
-Run php artisan migrate
-Done !!! Enjoy Customizing and building awesome app</p>
+- Clone the repo git clone https://github.com/rumeshdezoysa/Laravel-5.7-start.git
+- cd to project folder.
+- Run composer install
+- Save as the .env.example to .env and set your database information
+- Run php artisan key:generate to generate the app key
+- Run npm install
+- Run php artisan migrate
+- Done !!! Enjoy Customizing and building awesome app</p>
 
 
 
