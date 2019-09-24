@@ -58,7 +58,9 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [Understand.io](https://www.understand.io/)
 - [Abdel Elrafa](https://abdelelrafa.com)
 
-Installation
+
+## Installation
+
 It's just like any other Laravel project. Basically here is how you use it for yourself. (it's not completed yet)
 
 Clone the repo git clone https://github.com/rumeshdezoysa/Laravel-5.7-start.git
@@ -69,6 +71,8 @@ Run php artisan key:generate to generate the app key
 Run npm install
 Run php artisan migrate
 Done !!! Enjoy Customizing and building awesome app
+
+
 
 
 ## Contributing
